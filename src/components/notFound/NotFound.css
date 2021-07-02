@@ -1,0 +1,22 @@
+.not-found {
+	display: flex;
+	flex-direction: column;
+	height: 30vh;
+	width: 100%;
+	margin: 30px auto;
+}
+
+.not-found h2 {
+	font-size: 40px;
+	color: #f1356d;
+}
+
+.not-found p {
+	font-size: 20px;
+}
+
+.not-found-link {
+	font-size: 25px;
+	margin-top: 50px;
+	text-decoration: none;
+}
